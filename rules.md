@@ -32,10 +32,18 @@ If an empty space has 2 or more adjacent tiles then only the tile that is the su
 
 The game continues until no more valid moves are available. After that both players count up the values of the tiles that remain in their 'hands'. The player with a lower total wins.
 
+
+Solo Variant
+------------
+
+Solo variant is played the same way a 2 player game is, but you will play both players. The differences are that the game ends immediately if one of the players can't place anything onto the board any more. Your score is total of all the remaining (both players) tiles.
+
+
 	
 Credits
 -------
 
 Design: Petri Purho
-Playtesting: Arvi Teikari, Anna Zajaczkowski, Olli Harjola, Ari Kuokka, Matti Hämäläinen, Timo Ijäs, Perttu Hämäläinen, Mikko Tiusanen, Johannes Hidén, Juho Glad, Pekka Tanskanen, Pyry Kontio, Vesa Lepola, Niilo Takalainen
+
+Playtesting: Arvi Teikari, Anna Zajaczkowski, Olli Harjola, Ari Kuokka, Matti Hämäläinen, Timo Ijäs, Perttu Hämäläinen, Mikko Tiusanen, Johannes Hidén, Juho Glad, Pekka Tanskanen, Pyry Kontio, Vesa Lepola, Niilo Takalainen
 
