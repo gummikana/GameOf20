@@ -6,6 +6,12 @@ Goal
 
 The goal is to have the lowest score at the end of the game. Your score is the sum of the tiles remaining in your 'hand'. The game ends when both players have run out of valid moves.
 
+Components
+----------
+* 1 5x5 board
+* 24 number tiles (4x1, 2x2, 1 of 3 to 20)
+* 6 center tiles (empty, 4, 5, 6, 7, 8)
+
 Setup
 -----
 Both players start with the following tiles in their 'hands': 1, 1, 2
@@ -45,5 +51,9 @@ Credits
 
 Design: Petri Purho
 
+<<<<<<< HEAD
 Playtesting: Arvi Teikari, Anna Zajaczkowski, Olli Harjola, Ari Kuokka, Matti Hämäläinen, Timo Ijäs, Perttu Hämäläinen, Mikko Tiusanen, Johannes Hidén, Juho Glad, Pekka Tanskanen, Pyry Kontio, Vesa Lepola, Niilo Takalainen
+=======
+Playtesting: Arvi Teikari, Anna Zajaczkowski, Olli Harjola, Ari Kuokka, Matti HÃ¤mÃ¤lÃ¤inen, Timo IjÃ¤s, Perttu HÃ¤mÃ¤lÃ¤inen, Mikko Tiusanen, Johannes HidÃ©n, Juho Glad, Pekka Tanskanen, Pyry Kontio, Vesa Lepola, Niilo Takalainen
+>>>>>>> 4b338409ab5532616744afb01a1d888553d96675
 
